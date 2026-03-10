@@ -1,0 +1,9 @@
+# Private files — not for public repo
+CLAUDE.md
+STATE.md
+brief-for-new-claude.md
+docs/
+.claude/
+
+# System
+.DS_Store
