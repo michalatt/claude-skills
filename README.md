@@ -2,7 +2,7 @@
 
 # claude-skills
 
-Skills I've built for Claude Code that are actually useful.
+My workspace for Claude Code skills. Currently includes: /challenge for critical thinking
 
 ---
 
