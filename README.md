@@ -21,6 +21,8 @@ This skill gives it a reason to push back. Type `/challenge` at any decision poi
 - Explain it like I need to decide, not understand
 - What would you do differently if you started over?
 
+**Custom questions:** Add a `custom-questions.md` file next to `SKILL.md` with project-specific questions. Same format — question + when to pick it. The built-in 5 always stay.
+
 **How to install:**
 
 Copy `skills/challenge/SKILL.md` into your project under `.claude/skills/challenge/SKILL.md`

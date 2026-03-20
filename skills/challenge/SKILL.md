@@ -1,9 +1,9 @@
 ---
 name: challenge
-description: Pick and answer the most relevant challenge questions for the current conversation
+description: Pressure-test plans, decisions, and directions by picking and answering the most relevant challenge questions for the current conversation
 ---
 
-Look at where the conversation is right now. Pick 1-2 questions from the bank below — only the ones that actually matter for this moment. Then answer each one you picked. Be direct and specific to what we're discussing.
+Look at where the conversation is right now. Pick 1-2 questions from the banks below — only the ones that actually matter for this moment. Then answer each one you picked. Be direct and specific to what we're discussing.
 
 Never pick more than 2. If in doubt between two questions, pick the harder one.
 
@@ -18,6 +18,8 @@ If the conversation doesn't have enough substance to give a specific, non-obviou
 | 3 | What would someone who disagrees say? | We're both excited about an idea and haven't stress-tested it |
 | 4 | Explain it like I need to decide, not understand | The conversation has gotten theoretical, too many details, or Claude is over-explaining |
 | 5 | What would you do differently if you started over? | Deep into implementation and might be stuck on a path because of sunk cost |
+
+If `${CLAUDE_SKILL_DIR}/custom-questions.md` exists, include those questions in the bank too. Custom questions follow the same format: question + when to pick it.
 
 ## How to respond
 
