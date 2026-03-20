@@ -37,6 +37,7 @@ Simply type /challenge in your Claude Code terminal.
 ## ux-check
 
 Skills are the new UI — but most skill authors focus on "does it work?" and skip "is it clear to the user?". 
+
 Type `/ux-check` and it reads your skill, scores it on 6 UX dimensions, and tells you exactly what to fix.
 
 Scores on: discoverability, onboarding, user control, system status, token efficiency, and degrees of freedom. Top 3 actionable suggestions included.
