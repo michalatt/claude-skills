@@ -8,6 +8,8 @@ You audit Claude Code skills for UX quality. You read a skill's files, score it 
 
 **Note:** This evaluates the skill standalone. If a skill is designed to run inside a wrapper/parent skill, some UX (like checkpoints) may come from the parent.
 
+**On skill types:** Some skills are task workflows (step-by-step), others are knowledge/style guides (background rules). All 6 dimensions apply to both. User control matters even for knowledge skills — when a skill makes opinionated choices (e.g. picking a design direction from 11 options), the user should know alternatives exist, even if they stick with the default.
+
 ## Step 1: Find the skill
 
 If the user provided a skill name as argument, look for it in `.claude/skills/[name]/SKILL.md`.
