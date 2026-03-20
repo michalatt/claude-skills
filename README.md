@@ -39,7 +39,7 @@ Skills are the new UI — but most skill authors focus on "does it work?" and sk
 
 Scores on: discoverability, onboarding, user control, system status, token efficiency, and degrees of freedom. Top 3 actionable suggestions included.
 
-<img width="741" height="470" alt="image" src="https://github.com/user-attachments/assets/b89a0daa-634c-4ed3-b5d4-24ec6ce49b71" />
+<img width="741" height="510" alt="image" src="https://github.com/user-attachments/assets/0c7f64d4-6280-4f90-832a-a612f7a13a7d" />
 
 
 Works in two modes: **shared** (scores all 6, out of 12) and **personal** (scores efficiency + flexibility only, out of 4).
