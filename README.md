@@ -12,7 +12,8 @@ Claude is built to help — which means it tends to agree.
 
 This skill gives it a reason to push back. Type `/challenge` at any decision point and Claude picks the hardest relevant question from a curated bank and answers it honestly.
 
-<img width="741" height="510" alt="image" src="https://github.com/user-attachments/assets/7e4f4474-b3a4-4e0c-9b1e-9ee2ef83380b" />
+<img width="769" height="284" alt="image" src="https://github.com/user-attachments/assets/12bfaca1-31a0-45e3-83da-8510faeb8b4e" />
+
 
 **Questions it picks from:**
 - What's the simplest version of this?
