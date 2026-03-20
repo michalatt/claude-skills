@@ -2,7 +2,7 @@
 
 # claude-skills
 
-My workspace for Claude Code skills. Currently includes: /challenge for critical thinking
+My workspace for Claude Code skills. Currently includes: /challenge for critical thinking, /ux-check for skill UX audits
 
 ---
 
@@ -30,3 +30,19 @@ Copy `skills/challenge/SKILL.md` into your project under `.claude/skills/challen
 **How to use:**
 
 Simply type /challenge in your Claude Code terminal.
+
+---
+
+## ux-check
+
+Audit any Claude Code skill for UX quality. Scores it on 6 dimensions — discoverability, onboarding, user control, system status, token efficiency, and degrees of freedom — then gives the top 3 actionable suggestions.
+
+Works in two modes: **shared** (scores all 6, out of 12) and **personal** (scores efficiency + flexibility only, out of 4).
+
+**How to install:**
+
+Copy `skills/ux-check/SKILL.md` into your project under `.claude/skills/ux-check/SKILL.md`
+
+**How to use:**
+
+Type `/ux-check` to see a list of installed skills, or `/ux-check [skill-name]` to check a specific one.
